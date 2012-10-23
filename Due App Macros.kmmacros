@@ -12,7 +12,7 @@
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -49,31 +49,6 @@ Format Example: 7:00 AM</string>
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -152,6 +127,18 @@ Format Example: 7:00 AM</string>
 						<key>ReleaseAll</key>
 						<false/>
 					</dict>
+					<dict>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%Delete%</string>
+						<key>Variable</key>
+						<string>DueAppTime</string>
+					</dict>
 				</array>
 				<key>IsActive</key>
 				<true/>
@@ -189,9 +176,9 @@ Format Example: 7:00 AM</string>
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -205,7 +192,7 @@ Format Example: 7:00 AM</string>
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -242,31 +229,6 @@ Format Example: 7:00 AM</string>
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -382,9 +344,9 @@ Format Example: 7:00 AM</string>
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -398,7 +360,7 @@ Format Example: 7:00 AM</string>
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -435,31 +397,6 @@ Format Example: 7:00 AM</string>
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -575,9 +512,9 @@ Format Example: 7:00 AM</string>
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -591,7 +528,7 @@ Format Example: 7:00 AM</string>
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -628,31 +565,6 @@ Format Example: 7:00 AM</string>
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -768,9 +680,9 @@ Format Example: 7:00 AM</string>
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -784,7 +696,78 @@ Format Example: 7:00 AM</string>
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>NewFile</key>
+						<string>/Volumes/MacintoshHD/skorzdorfer/my_repos/omnifocus2due_script/OF2Due_script.scpt</string>
+						<key>Path</key>
+						<string>/Volumes/MacintoshHD/skorzdorfer/my_repos/omnifocus2due_script/OF2Due_script.scpt</string>
+						<key>Text</key>
+						<string></string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>UseText</key>
+						<false/>
+						<key>Variable</key>
+						<string>Variable</string>
+					</dict>
+				</array>
+				<key>IsActive</key>
+				<true/>
+				<key>Name</key>
+				<string>OmniFocus to Due  (O)</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>31</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+						<key>TriggerRepeat</key>
+						<false/>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>74D4778F-9640-4EBA-9CED-0AEFDCF4818F</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Hot Pallet - Due App (F3)</string>
+		<key>UID</key>
+		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>OnceWithPalette</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>IsActive</key>
+		<true/>
+		<key>KeyCode</key>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -813,31 +796,6 @@ P.S. This one is a bit tricker as I also have a timer named "10 Minute Timer". F
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -927,9 +885,9 @@ P.S. This one is a bit tricker as I also have a timer named "10 Minute Timer". F
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -943,7 +901,7 @@ P.S. This one is a bit tricker as I also have a timer named "10 Minute Timer". F
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -970,31 +928,6 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -1084,9 +1017,9 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -1100,7 +1033,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -1127,31 +1060,6 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 						<string>Normal</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -1241,9 +1149,9 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -1257,7 +1165,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -1293,7 +1201,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 				<key>IsActive</key>
 				<true/>
 				<key>Name</key>
-				<string>Postpone Selected Reminder for 1 Day</string>
+				<string>Postpone Selected Reminder for 1 Day (D)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1314,9 +1222,9 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -1330,7 +1238,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -1366,7 +1274,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 				<key>IsActive</key>
 				<true/>
 				<key>Name</key>
-				<string>Postpone Selected Reminder for 1 Hour</string>
+				<string>Postpone Selected Reminder for 1 Hour (H)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1387,9 +1295,9 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -1403,7 +1311,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -1439,7 +1347,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 				<key>IsActive</key>
 				<true/>
 				<key>Name</key>
-				<string>Postpone Selected Reminder for 10 Minutes</string>
+				<string>Postpone Selected Reminder for 10 Minutes (M)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1460,9 +1368,9 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
@@ -1476,7 +1384,7 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 		<key>IsActive</key>
 		<true/>
 		<key>KeyCode</key>
-		<integer>15</integer>
+		<integer>99</integer>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -1487,31 +1395,6 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 						<string>Hide</string>
 						<key>Application</key>
 						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAFAAAIAAQxNYWNp
-							bnRvc2hTU0QAAAAAAAAA
-							AAAAAAAAAADKFCHgSCsA
-							AAAa2HsHRHVlLmFwcAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAIaJCMvK
-							y08AAAAAAAAAAP////8A
-							AAkgAAAAAAAAAAAAAAAA
-							AAAADEFwcGxpY2F0aW9u
-							cwAQAAgAAMoUaDAAAAAR
-							AAgAAMvLEZ8AAAABAAQA
-							Gth7AAIAIk1hY2ludG9z
-							aFNTRDpBcHBsaWNhdGlv
-							bnM6AER1ZS5hcHAADgAQ
-							AAcARAB1AGUALgBhAHAA
-							cAAPABoADABNAGEAYwBp
-							AG4AdABvAHMAaABTAFMA
-							RAASABRBcHBsaWNhdGlv
-							bnMvRHVlLmFwcAATAAEv
-							AP//AAA=
-							</data>
 							<key>BundleIdentifier</key>
 							<string>com.phocusllp.duemac</string>
 							<key>Creator</key>
@@ -1538,14 +1421,254 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 				<key>IsActive</key>
 				<true/>
 				<key>Name</key>
-				<string>Summon Due (Space)</string>
+				<string>Summon Due (F3)</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>WhileDown</string>
+						<key>KeyCode</key>
+						<integer>99</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+						<key>TriggerRepeat</key>
+						<true/>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>FBD1C2E4-7D12-45F1-B955-D2335300C605</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Hot Pallet - Due App (F3)</string>
+		<key>UID</key>
+		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>OnceWithPalette</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>IsActive</key>
+		<true/>
+		<key>KeyCode</key>
+		<integer>99</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>Text</key>
+						<string>NB: I add several spaces to the URL we're sending to Due. I like the url to be on the next line.</string>
+						<key>Title</key>
+						<string>Format the URL</string>
+					</dict>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>--
+--	Created by: Sean Korzdorfer
+--	Created on: 10/23/12 12:11:00
+--
+--	Copyright (c) 2012 MyCompanyName
+--	All Rights Reserved
+--
+-- If you have selected multiple tasks, the script can ask if you need to make changes.
+-- 
+-- AskForChanges is OFF by default.
+--
+-- If the script behaves like it's possessed, please adjust the pause commands on line numbers:
+--  	55, 63, 71
+
+property askForChanges : false
+
+tell application "Things"
+	activate
+	set theSelection to selected to dos
+	repeat with aTask from 1 to count of theSelection
+		if the activation date of item aTask of theSelection is not missing value and the activation date of item aTask of theSelection is greater than (current date) then
+			set theURl to "due:///add?title=" &amp; my urlEncode(name of item aTask of theSelection &amp; " " &amp; activation date of item aTask of theSelection as Unicode text)
+		else if due date of item aTask of theSelection is not missing value and the due date of item aTask of theSelection is greater than (current date) then
+			set theURl to "due:///add?title=" &amp; my urlEncode((name of item aTask of theSelection as Unicode text) &amp; " " &amp; due date of item aTask of theSelection as Unicode text)
+		else
+			-- Throw a dialog to get the date information from the user.
+			-- Seems if I let the use add the date information to the task input after the URL is sent, 
+			-- Due will not generate the selection used for deletion 
+			tell application "Due"
+				activate
+				display dialog "Enter Date for Task: " &amp; the name of item aTask of theSelection default answer ""
+				set theDate to (text returned of result) as text
+			end tell
+			
+			set theURl to "due:///add?title=" &amp; my urlEncode((name of item aTask of theSelection as Unicode text) &amp; " " &amp; theDate as Unicode text)
+		end if
+		
+		tell application "Finder" to open location theURl
+		tell application "Due" to activate
+		delay 0.5
+		tell application "System Events" to key code 51
+		if askForChanges is false and aTask is less than (count of theSelection) then
+			tell application "System Events" to key code 36
+			delay 1
+		end if
+		if askForChanges is true and aTask is less than (count of theSelection) then
+			-- Throw a simple display to pause the script and allow the user to make any edits to the reminder
+			tell application "System Events" to (display dialog "If needed, make  edits to the reminder, Do not complete the reminder" buttons {"Okay"})
+			-- Complete Due reminder.
+			tell application "Due" to activate
+			tell application "System Events" to key code 36
+			delay 1
+			
+		end if
+	end repeat
+end tell
+
+
+
+
+(* http://applescript.bratis-lover.net/library/url/
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+--c-                                                                                                URL LIBRARY
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+--d-- Last modification date:                                                             2012-01-14
+
+
+Two simple handlers to decode and encode URLs. The urlEncode handler is also 
+very useful for creating AppleScript URLs as found throughout this site.
+
+
+--m-- http://applescript.bratis-lover.net/library/url/
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+--c-                                                                                                   COPYRIGHT
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+COPYRIGHT (c) 2008 ljr (http://applescript.bratis-lover.net)
+                                [ urlEncode, urlDecode ]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons
+to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies
+or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+*)
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+--c-                                                                                                 PROPERTIES
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+
+--c--   property myName
+--d--   Name that should be used when loading this library.
+property myName : "_url"
+
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+--c-                                                                                         ENCODE/DECODE
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+
+--c--   urlEncode(str)
+--d--   URL encode the passed string.
+--a--   str : string
+--r--   string
+--x--   urlEncode("Nürnberg $%@") --&gt; "N%C3%BCrnberg%20%24%25%40"
+--m--  echo (man1/echo.1.html), perl (man1/perl.1.html)
+--u--   ljr (http://applescript.bratis-lover.net/library/url/)
+on urlEncode(str)
+	local str
+	try
+		return (do shell script "/bin/echo " &amp; quoted form of str &amp; ¬
+			" | perl -MURI::Escape -lne 'print uri_escape($_)'")
+	on error eMsg number eNum
+		error "Can't urlEncode: " &amp; eMsg number eNum
+	end try
+end urlEncode
+
+--c--   urlDecode(str)
+--d--   URL decode the passed string.
+--a--   str : string
+--r--   string
+--x--   urlDecode("N%C3%BCrnberg%20%24%25%40") --&gt; "Nürnberg $%@"
+--m--  echo (man1/echo.1.html), perl (man1/perl.1.html)
+--u--   ljr (http://applescript.bratis-lover.net/library/url/)
+on urlDecode(str)
+	local str
+	try
+		return (do shell script "/bin/echo " &amp; quoted form of str &amp; ¬
+			" | perl -MURI::Escape -lne 'print uri_unescape($_)'")
+	on error eMsg number eNum
+		error "Can't urlDecode: " &amp; eMsg number eNum
+	end try
+end urlDecode
+
+
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+--                                                                                                                 EOF
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>Variable</string>
+					</dict>
+				</array>
+				<key>IsActive</key>
+				<true/>
+				<key>Name</key>
+				<string>Things to Due Macro (T)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>49</integer>
+						<integer>17</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
@@ -1555,13 +1678,13 @@ Nota Bene: If you have multiple timers named Pomodoro, this macro will not work 
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>FBD1C2E4-7D12-45F1-B955-D2335300C605</string>
+				<string>C821FEBE-8195-4C7C-997E-A0B20733E216</string>
 			</dict>
 		</array>
 		<key>Modifiers</key>
-		<integer>2304</integer>
+		<integer>0</integer>
 		<key>Name</key>
-		<string>Hot Palette - Due App (opt-cmd-R)</string>
+		<string>Hot Pallet - Due App (F3)</string>
 		<key>UID</key>
 		<string>B92E837F-9FEC-4287-AC11-71E6362E430F</string>
 	</dict>
